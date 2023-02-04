@@ -3,4 +3,4 @@ project(untitled1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled1 main.cpp BHeap.cpp)
+add_executable(binary_heap_demo main.cpp BHeap.cpp)
